@@ -99,3 +99,23 @@ nav h1 {
 .section.testimonial p {
   text-align: end;
 }
+
+.section.call-to-action {
+  padding: 10rem 20rem;
+}
+.cta__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #407bff;
+  color: #fff;
+  padding: 4rem;
+  border-radius: 6px;
+}
+.cta__container button {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+}
